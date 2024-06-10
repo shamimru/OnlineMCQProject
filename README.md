@@ -1,5 +1,5 @@
 
-# first create a angular project then unzip this zip file, and peast the src folder to your project file, same for spring, and here mysql file is attasted 
+# first create a angular project then unzip this zip file, and paste the src folder to your project file, same for spring, and here mysql file is attasted 
 
 
 # OnlineMCQProject
